@@ -1,0 +1,3 @@
+ttkbootstrap
+pillow
+pyserial
